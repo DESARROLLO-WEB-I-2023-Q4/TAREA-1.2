@@ -1,6 +1,6 @@
-# POYECTO USUARIOS
+# PROYECTO USUARIOS
 
- Este proyecto hace un api de una base de datos que contiene una tabla de Usuarios, hace las 5 basicas operaciones del CRUD y de ua Api (GET, GET por Id, POST, PUT y DELETE).
+ Este proyecto hace un api de una base de datos que contiene una tabla de Usuarios, hace las 5 basicas operaciones del CRUD y de una Api (GET, GET por Id, POST, PUT y DELETE).
 
 ## FUNCIONAMIENTO:
  Necesitará tener instalado:
