@@ -1,4 +1,4 @@
--- Active: 1697481834804@@localhost@5432@postgres
+-- Active: 1697597012477@@localhost@5432@postgres
 
 CREATE TABLE tbl_Usuario
 (   
@@ -9,7 +9,9 @@ CREATE TABLE tbl_Usuario
     CorreoElectronico VARCHAR(60)
 );
 
+
 SELECT * FROM tbl_Usuario;
+
 
 INSERT INTO tbl_Usuario 
 (PrimerNombre, PrimerApellido, FechaDeNacimiento, CorreoElectronico)
